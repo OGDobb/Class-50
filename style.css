@@ -1,0 +1,23 @@
+
+            h1{
+                color : green
+            }
+            *{
+                border : solid
+            }
+
+    .topText{
+        background-color: red;
+        display: flex;
+        justify-content: space-between;
+    }
+    .mainText{
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .social{
+        display: flex;
+        justify-content: center;
+    }
+
